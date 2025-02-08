@@ -1,0 +1,19 @@
+.home-section {
+      background-size: cover;
+      color: white;
+      padding: 100px 0;
+    }
+    .services-section {
+      background-color: #f8f9fa;
+      padding: 60px 0;
+    }
+    .service-card {
+      text-align: center;
+      border: 1px solid #ddd;
+      padding: 30px;
+      border-radius: 10px;
+    }
+	.card-img-top
+	{
+		height:20% !important;
+	}
